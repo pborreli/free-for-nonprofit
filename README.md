@@ -1,7 +1,7 @@
 # free-for-nonprofit
 Non profit organisations can benefit of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
-This repo is a fork of the great https://github.com/ripienaar/free-for-dev list in order to add special non-profit special offer to the already listed free for dev offers.
+This repo is a fork of the great https://github.com/ripienaar/free-for-dev list in order to add non-profit special offer to the already listed free for dev offers.
 
 This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for non-profit organisations.
 
