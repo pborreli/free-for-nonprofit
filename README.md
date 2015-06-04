@@ -27,6 +27,8 @@ If you're not inclined to make PRs you can tweet me at ```@pborreli```
  
 ## Tools for teams & Collaboration
 
+ * https://slack.zendesk.com/hc/en-us/articles/204368833-Slack-for-Nonprofits-program Slack offers a free Standard plan subscription to qualified nonprofit organizations with up to 100 members.
+
 ## Code Quality
 
 ## Code Search and Browsing
