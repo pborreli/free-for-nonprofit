@@ -56,6 +56,7 @@ If you're not inclined to make PRs you can tweet me at ```@pborreli```
 ## BaaS
 
 ## Web Hosting
+ * https://help.dreamhost.com/hc/en-us/articles/215769478-Non-profit-discount - DreamHost offers a single shared hosting plan for 501(c)3 US based non-profit's.
 
 ## IaaS
 
