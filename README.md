@@ -56,6 +56,13 @@ If you're not inclined to make PRs you can tweet me at ```@pborreli```
 ## BaaS
 
 ## Web Hosting
+ * https://help.dreamhost.com/hc/en-us/articles/215769478-Non-profit-discount - DreamHost offers a single shared hosting plan for 501(c)3 US based non-profit's.
+ * https://www.interserver.net/webhosting/non-profit-hosting.html - InterServer Provides FREE Web Hosting to Non-Profit Organizations
+ * https://mightweb.net/sponsor - MightWeb offers sponsorship deals to registered non-profit, charitable organizations in the United States. They will host your site for free in return for a link on your page.
+ * https://digitalshiftmedia.com/non-profit/ - For Not For Profits that use the website design service they provide, Digital Shift is offering its hosting service free of charge to all Registered Canadian Non-Profit Organizations.
+ * https://www.tsohost.com/web-hosting/charity-hosting - If you’re a UK registered charity, you can take advantage of TSOHost's tailor-made charity hosting package in return for a small banner showing they sponsor your site.
+ * https://kb.asmallorange.com/customer/portal/articles/1603354-our-charitable-non-profit-discount - If a non-profit or charity passes A Small Orange's non-profit criteria, they will offer a free small plan on a month to month basis.
+ * http://freeforcharity.org/help-for-charities/free-charity-website-hosting/ - Whether you are a Nonprofit or full 501(c)3 registered charity ffchosting can provide you with a free website and free web hosting.
 
 ## IaaS
 
